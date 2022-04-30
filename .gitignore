@@ -1,0 +1,4 @@
+**/*.mat
+**/*.pkl
+*.pdf
+.ipynb_checkpoints/*
