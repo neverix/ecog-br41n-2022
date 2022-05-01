@@ -3,3 +3,4 @@
 *.pdf
 .ipynb_checkpoints/*
 template-hackathon-presentation.pptx
+*lock*
